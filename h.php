@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Untitled</title>
+<?php
+echo 'Самая распространенная конструкция'; ?>
 
-</head>
-
-    <body class="page_bg">
-    Привет, сегодня 
-    <?php echo date('l, F jS, Y'); ?>.
-    <?php
-    $say = 'Hello world!';?>
-
-    <?php echo 'Самая распространенная конструкция'; ?>
-</body>
-</html>
